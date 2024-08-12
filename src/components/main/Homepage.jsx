@@ -80,6 +80,7 @@ const Homepage = () => {
           onDecrement={() => setDropSpeed(dropSpeed + 1)}
           textLable="Speed"
         />
+        
       </div>
     </>
   );
